@@ -1,5 +1,5 @@
 body {
-    background-image: url("/Users/dev1/Desktop/WebsiteProject/images/background.jpg");
+    background-image: url("images/background.jpg");
     background-color: aqua;
 }
 .page {
