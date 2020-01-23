@@ -24,8 +24,6 @@ body {
 }
 .outcome1 {
     background-image: url("images/button2Background.jpg");
-
-    /* background-color: aqua; */
 background-repeat: no-repeat;
     background-size: 160px;
     font-size: 30px;
