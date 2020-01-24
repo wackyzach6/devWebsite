@@ -6,7 +6,12 @@ body {
     display: flex;
     justify-content: space-between;
 }
-
+.textboxAbout {
+    background-color: rgba(187, 202, 191, 0.5);
+    font-size: 20px;
+    width: 600px;
+    height: 350px;
+}
 .textbox {
     background-color: rgba(187, 202, 191, 0.5);
     font-size: 20px;
