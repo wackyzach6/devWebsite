@@ -10,9 +10,13 @@ body {
 .textbox {
     background-color: rgba(187, 202, 191, 0.5);
     font-size: 20px;
-    width: 1200px
+    width: 1200px;
 }
-
+.businessDetails {
+    background-color: rgba(187, 202, 191, 0.5);
+    font-size: 20px;
+    width: 600px;
+}
 #mainTitle {
     font-family: 'karla', sans-serif;
     font-size: 80px;
