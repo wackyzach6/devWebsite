@@ -86,3 +86,16 @@ background-repeat: no-repeat;
     justify-content: flex-start;
     flex-direction: column;
 }
+
+a:link {
+    color:red
+}
+a:visited {
+    color: orange
+}
+a:hover {
+    color: magenta
+}
+a:active {
+    color: blue
+}
